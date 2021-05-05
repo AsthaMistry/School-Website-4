@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+    font-family:monospace;
+}
+#mynavbar{
+    list-style:none;
+    float:right;
+    font-size: 20px;
+    margin-bottom: 2%;
+        
+}
+li{
+    display: inline;
+}
+#GDS{
+    font-size: 40px;
+    
+}
+#marqueStyle{
+    background-color:aquamarine;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+#contactUs{
+    font-size: 47px;
+    margin-top: 80px;
+}
+#video{
+    width: 50%;
+    height: 50%;
+}
+#details{
+    margin-top: 5%;
+}
+#principal{
+    font-size: 30px;
+    font-weight:bolder;
+}
+#name{
+    font-size: 26px;
+    margin-top: -5px;
+    margin-right: 3%;
+}
+#e-mail{
+    font-size: 16px;
+    margin-left: 70%;
+}
+#insta{
+    font-size: 16px;
+    margin-left: 72%;
+}
+#phone{
+    font-size: 16px;
+    margin-left: 52%;
+}
+#ad{
+    border-radius: 0%;
+    width: 40%;
+    margin-left: 30%;
+}
+#Emap{
+    margin-right: 30%;
+}
+#mam{
+    margin-bottom: 10%;
+}
+#principal{
+    margin-left: 70%;
+    margin-top: -9%;
+}
+#name{
+    margin-left: 70%;
+}
+
+
+.campus_mainDiv{
+    border:1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.campusmainDiv img{
+    width:100%;
+}
+.campusmainDiv hr{
+    width: 230px;
+}
+.campusmainDiv h5 , .travelmainDiv p{
+    margin-left: 20px;
+}
+.achieve_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.achieve_head i{
+    float: right;
+}
+.science_text span{
+    color: #ff7700;
+}
+#Dance{
+    width:530px;
+}
+.sport_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.sport_head i{
+    float: right;
+}
+.sport_text span{
+    color: #ff7700;
+}
